@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1ffdd1a-2521-42e7-85cb-a8bd1a7b014a" name="Changes" comment="Task #1: UI Tests">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/SearchResultsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SearchResultsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/filterItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/filterItems.java" afterDir="false" />
-    </list>
+    <list default="true" id="f1ffdd1a-2521-42e7-85cb-a8bd1a7b014a" name="Changes" comment="Task #1: UI Tests Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -46,7 +47,7 @@
     "TestNG.SearchResultsTest.executor": "Run",
     "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "My-Local",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "E:/Selenium/QA-Engineer-Practical-Test-Automation-/practical_Test_Automation/src/main/java",
@@ -137,11 +138,28 @@
       <option name="project" value="LOCAL" />
       <updated>1743341727494</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task #1: UI Tests Update">
+      <option name="closed" value="true" />
+      <created>1743346826896</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743346826896</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task #1: UI Tests Update">
+      <option name="closed" value="true" />
+      <created>1743346900138</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743346900138</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task #1: UI Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task #1: UI Tests" />
+    <MESSAGE value="Task #1: UI Tests Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task #1: UI Tests Update" />
   </component>
 </project>

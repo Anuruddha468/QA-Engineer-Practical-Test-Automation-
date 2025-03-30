@@ -30,7 +30,6 @@ public class filterItems {
 
         // 4. Click the "Tops" link
         topsLink.click();
-        //New changes
 
         driver.quit();
 
