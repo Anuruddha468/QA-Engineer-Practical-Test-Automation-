@@ -17,7 +17,6 @@ public class filterItems {
         driver.manage().window().maximize();
         driver.get("https://magento.softwaretestingboard.com/");
 
-
         // 1. Locate the "Women" menu item
         WebElement womenMenu = new WebDriverWait(driver, Duration.ofSeconds(10))
                 .until(ExpectedConditions.presenceOfElementLocated(By.linkText("Women"))); // Adjust locator
@@ -32,6 +31,8 @@ public class filterItems {
 
         // 4. Click the "Tops" link
         topsLink.click();
+        //New changes
+
         driver.quit();
 
     }
